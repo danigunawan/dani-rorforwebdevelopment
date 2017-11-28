@@ -18,6 +18,7 @@ default: &default
   host: localhost
 
 
+
 development:
   <<: *default
   database: project_rails_development
