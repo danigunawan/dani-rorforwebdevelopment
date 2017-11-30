@@ -33,6 +33,9 @@ gem 'jbuilder', '~> 2.5'
 gem 'devise', '~> 4.3'
 gem 'paperclip', '~> 5.1'
 gem 'aws-sdk', '~> 3.0', '>= 3.0.1'
+gem 'jquery-turbolinks'
+gem 'masonry-rails'
+
 
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
